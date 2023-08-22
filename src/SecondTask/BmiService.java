@@ -1,4 +1,3 @@
-
 package SecondTask;
 
 public class BmiService {

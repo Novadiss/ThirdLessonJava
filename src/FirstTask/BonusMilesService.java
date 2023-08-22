@@ -1,3 +1,5 @@
+package FirstTask;
+
 public class BonusMilesService {
         public int calculate(int price) {
                 int result;
